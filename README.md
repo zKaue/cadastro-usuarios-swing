@@ -4,7 +4,7 @@ Sistema de Cadastro de Usuários com interface gráfica desenvolvido em **Java S
 
 ## 🎯 Objetivo
 
-Gerenciar o cadastro de usuários com as funcionalidades básicas de um CRUD (Create, Read, Update, Delete), permitindo interações por meio de uma interface gráfica intuitiva.
+Gerenciar o cadastro de usuários com as funcionalidades básicas de um CRUD (Create, Read, Update, Delete), permitindo interações por meio de uma interface gráfica intuitiva. Os dados dos usuários são armazenados em um banco de dados MySQL, garantindo persistência entre execuções.
 
 ## 🧩 Funcionalidades
 
