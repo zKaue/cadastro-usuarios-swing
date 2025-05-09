@@ -1,4 +1,4 @@
-# cadastro-usuarios-swing
+# Sistema de Cadastro de Usuários com Java Swing
 
 Sistema de Cadastro de Usuários com interface gráfica desenvolvido em **Java Swing**, utilizando o tema moderno **FlatLaf** para aprimorar a experiência visual. O projeto foi criado como parte de uma atividade acadêmica individual.
 
