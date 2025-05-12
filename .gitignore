@@ -1,0 +1,16 @@
+# Arquivos de compilação
+*.class
+
+# Pastas de build
+bin/
+out/
+
+# Arquivos da IDE Eclipse
+.project
+.classpath
+.settings/
+
+# Arquivos temporários e do sistema
+*.log
+.DS_Store
+Thumbs.db
